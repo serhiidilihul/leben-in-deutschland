@@ -63,6 +63,7 @@ window.TestEngine = (() => {
 
       return {
         question,
+        testNumber: index + 1,
         selected,
         correct,
         isCorrect,

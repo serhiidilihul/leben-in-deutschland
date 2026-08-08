@@ -262,7 +262,21 @@ h1,h2,p { margin-top: 0; }
 .review-section { text-align:left; border-top:1px solid var(--border); padding-top:12px; margin-bottom:12px; }
 .review-section h2 { margin-bottom:3px; font-size:1rem; }
 .review-section p { color:var(--muted); font-size:.78rem; margin-bottom:7px; }
-.review-list { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:6px; max-height:24vh; overflow:hidden; }
+.review-list {
+  display:grid;
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:6px;
+  max-height:24vh;
+  overflow-y:auto;
+  overflow-x:hidden;
+  padding:2px 3px 4px 0;
+  scrollbar-width:thin;
+  scrollbar-color:var(--accent) var(--surface-soft);
+  overscroll-behavior:contain;
+}
+.review-list::-webkit-scrollbar { width:6px; }
+.review-list::-webkit-scrollbar-track { background:var(--surface-soft); border-radius:99px; }
+.review-list::-webkit-scrollbar-thumb { background:var(--accent); border-radius:99px; }
 .review-button {
   display:flex; justify-content:space-between; align-items:center;
   width:100%; min-height:36px; padding:0 10px;

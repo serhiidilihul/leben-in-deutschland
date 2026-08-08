@@ -17,8 +17,3 @@ Open `index.html` in a browser. For local development, a simple static server is
 
 ## Task 4
 Polished responsive UI, answer cards, timer states, result dashboard, error modal, image-aware question rendering, and mobile-specific navigation styling.
-
-## Viewport behavior
-All primary screens are designed as fixed viewport screens without page scrolling. Question images are displayed with viewport-relative maximum heights, and long questions automatically enter compact layout levels. Only the error-review modal may scroll internally.
-## Visual palette
-The interface uses a teal/mint/navy palette sampled from the supplied SwipeMind reference images.

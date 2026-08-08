@@ -44,7 +44,13 @@
   .review-section { padding-top:9px; margin-bottom:9px; }
   .review-section h2 { font-size:.9rem; }
   .review-section p { font-size:.68rem; margin-bottom:5px; }
-  .review-list { grid-template-columns:repeat(3,minmax(0,1fr)); gap:5px; max-height:25vh; }
+  .review-list {
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:5px;
+    max-height:25vh;
+    overflow-y:auto;
+    overflow-x:hidden;
+  }
   .review-button { min-height:32px; padding:0 7px; font-size:.68rem; }
   .result-card .primary-button-large { min-height:46px; }
 

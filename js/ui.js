@@ -152,7 +152,7 @@ window.UI = (() => {
             <div class="review-list">
               ${result.errors.map((error, i) => `
                 <button class="review-button" data-error="${i}" type="button">
-                  <span>Frage ${escapeHtml(String(error.question.originalNumber ?? "—"))}</span><span aria-hidden="true">→</span>
+                  <span>Frage ${escapeHtml(String(error.testNumber ?? "—"))}</span><span aria-hidden="true">→</span>
                 </button>`).join("")}
             </div>
           </div>
@@ -178,7 +178,7 @@ window.UI = (() => {
     modal.innerHTML = `
       <div class="error-modal" role="dialog" aria-modal="true" aria-labelledby="error-title">
         <button class="modal-close" type="button" aria-label="Schließen">×</button>
-        <div class="eyebrow">FRAGE ${escapeHtml(String(error.question.originalNumber ?? ""))}</div>
+        <div class="eyebrow">FRAGE ${escapeHtml(String(error.testNumber ?? ""))}</div>
         <h2 id="error-title">${escapeHtml(error.question.question)}</h2>
         ${error.question.image ? `<div class="modal-question-image"><img src="${escapeHtml(error.question.image)}" alt=""></div>` : ""}
         <div class="error-answer-group">
