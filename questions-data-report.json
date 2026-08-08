@@ -1,0 +1,47 @@
+{
+  "status": "complete",
+  "generalCount": 300,
+  "berlinCount": 10,
+  "totalCount": 310,
+  "generalRange": [
+    1,
+    300
+  ],
+  "berlinRange": [
+    1,
+    10
+  ],
+  "questionsWithQuestionImages": [
+    "general-55",
+    "general-70",
+    "general-130",
+    "general-176",
+    "general-181",
+    "general-187",
+    "general-216",
+    "general-235",
+    "berlin-8"
+  ],
+  "questionsWithAnswerImages": [
+    "general-21",
+    "general-209",
+    "general-226",
+    "berlin-1"
+  ],
+  "sourceAnomaliesResolved": [
+    {
+      "id": "general-240",
+      "issue": "No green answer marking was present in the supplied PDF page.",
+      "resolvedCorrectAnswerIndex": 2,
+      "resolvedAnswer": "2002",
+      "verification": "Official/current catalog and independent catalog agree."
+    },
+    {
+      "id": "general-271",
+      "issue": "The supplied PDF visually marks two answers green.",
+      "resolvedCorrectAnswerIndex": 1,
+      "resolvedAnswer": "einen Tannenbaum schmücken",
+      "verification": "Official/current catalog and independent catalog identify this as the single correct answer."
+    }
+  ]
+}

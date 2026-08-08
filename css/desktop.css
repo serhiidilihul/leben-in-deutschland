@@ -1,0 +1,5 @@
+@media (min-width:861px) {
+  .screen-test { padding:18px 40px 20px; }
+  .question-card { padding:clamp(20px,3.2vh,38px); }
+  .question-card h1 { font-size:clamp(1.35rem,2.5vw,2.15rem); }
+}

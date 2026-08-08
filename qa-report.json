@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "question_bank": {
+    "general": 300,
+    "berlin": 10,
+    "total": 310,
+    "duplicateIds": 0,
+    "badCorrect": 0,
+    "emptyQuestions": 0
+  },
+  "feature_checks": {
+    "30 general questions": true,
+    "3 Berlin questions": true,
+    "60 minute timer": true,
+    "single question rendering": true,
+    "result rendering": true,
+    "error modal": true,
+    "timer warning": true,
+    "mobile layout": true,
+    "desktop layout": true,
+    "restart": true
+  },
+  "image_assets": 25,
+  "errors": [],
+  "manual_browser_check": "Recommended: open the site in Chrome and test desktop/mobile interaction and GitHub Pages routing."
+}
