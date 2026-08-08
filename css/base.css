@@ -250,6 +250,20 @@ h1,h2,p { margin-top: 0; }
   background:conic-gradient(var(--accent) var(--score),#e0ecea 0);
   position:relative;
 }
+.score-ring.score-fail {
+  --score-color: #e28a2b;
+}
+.score-ring.score-pass {
+  --score-color: #657486;
+}
+.score-ring.score-excellent {
+  --score-color: #3a9b67;
+}
+.score-ring.score-fail,
+.score-ring.score-pass,
+.score-ring.score-excellent {
+  background: conic-gradient(var(--score-color) var(--score), #e0ecea 0);
+}
 .score-ring::before { content:""; position:absolute; inset:9px; border-radius:50%; background:var(--surface); }
 .score-ring>div { position:relative; display:grid; gap:2px; }
 .score-ring strong { font-size:2rem; }

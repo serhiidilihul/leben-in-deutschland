@@ -125,7 +125,11 @@ window.UI = (() => {
 
   function renderResult(result, onRestart) {
     const percentage = result.percentage.toFixed(1).replace(".", ",");
-    const scoreClass = result.percentage >= 75 ? "score-good" : result.percentage >= 50 ? "score-mid" : "score-low";
+    const scoreClass = result.correctCount < 17
+      ? "score-fail"
+      : result.correctCount <= 26
+        ? "score-pass"
+        : "score-excellent";
 
     app.innerHTML = `
       <section class="screen screen-result">
