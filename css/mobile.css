@@ -73,3 +73,50 @@
   .question-card.compact-3 .question-image img { max-height:8vh; }
   .question-card.compact-3 .answer-card { min-height:40px; padding:7px 10px; font-size:.72rem; }
 }
+
+@media (max-width: 860px) {
+  .question-layout {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 0;
+    gap: 8px;
+  }
+
+  .question-flip-card {
+    flex: 1;
+    min-height: 0;
+  }
+
+  .card-face {
+    padding: 18px 14px;
+  }
+
+  .card-face h1 {
+    margin: 8px 0 14px;
+    font-size: clamp(1.15rem, 5.8vw, 1.45rem);
+    line-height: 1.2;
+  }
+
+  .language-toggle {
+    top: 12px;
+    right: 12px;
+    min-width: 42px;
+    height: 31px;
+  }
+
+  .question-flip-card .answers {
+    gap: 8px;
+  }
+
+  .question-flip-card .answer-card {
+    min-height: clamp(58px, 8.8vh, 76px);
+    padding: 13px 14px;
+    font-size: .9rem;
+  }
+
+  .question-flip-card .question-image img {
+    max-height: 20vh;
+    margin-bottom: 12px;
+  }
+}

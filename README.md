@@ -17,3 +17,6 @@ Open `index.html` in a browser. For local development, a simple static server is
 
 ## Task 4
 Polished responsive UI, answer cards, timer states, result dashboard, error modal, image-aware question rendering, and mobile-specific navigation styling.
+
+## Russian translation flip
+The question card supports a full-card 3D flip between DE and RU. Russian fields are stored per question as `questionRu` and `answersRu`. The UI keeps answer selection and test state shared between both faces.

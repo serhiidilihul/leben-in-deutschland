@@ -1,4 +1,4 @@
-/* Generated from the supplied Leben in Deutschland PDF. */
+/* Question bank + Russian translation slots. */
 const QUESTION_BANK = {
   "general": [
     {
@@ -12,7 +12,14 @@ const QUESTION_BANK = {
         "hier Meinungsfreiheit gilt."
       ],
       "correctAnswer": 3,
-      "sourcePage": 2
+      "sourcePage": 2,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-2",
@@ -25,7 +32,14 @@ const QUESTION_BANK = {
         "Sprachunterricht teilnimmt."
       ],
       "correctAnswer": 1,
-      "sourcePage": 2
+      "sourcePage": 2,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-3",
@@ -38,7 +52,14 @@ const QUESTION_BANK = {
         "Die Gerichte machen die Gesetze."
       ],
       "correctAnswer": 0,
-      "sourcePage": 2
+      "sourcePage": 2,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-4",
@@ -51,7 +72,14 @@ const QUESTION_BANK = {
         "Selbstjustiz"
       ],
       "correctAnswer": 2,
-      "sourcePage": 3
+      "sourcePage": 3,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-5",
@@ -64,7 +92,14 @@ const QUESTION_BANK = {
         "Alle wahlberechtigten Personen müssen wählen."
       ],
       "correctAnswer": 2,
-      "sourcePage": 3
+      "sourcePage": 3,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-6",
@@ -77,7 +112,14 @@ const QUESTION_BANK = {
         "Grundgesetz"
       ],
       "correctAnswer": 3,
-      "sourcePage": 3
+      "sourcePage": 3,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-7",
@@ -90,7 +132,14 @@ const QUESTION_BANK = {
         "Wohnung"
       ],
       "correctAnswer": 0,
-      "sourcePage": 4
+      "sourcePage": 4,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-8",
@@ -103,7 +152,14 @@ const QUESTION_BANK = {
         "Alle sind vor dem Gesetz gleich."
       ],
       "correctAnswer": 1,
-      "sourcePage": 4
+      "sourcePage": 4,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-9",
@@ -116,7 +172,14 @@ const QUESTION_BANK = {
         "Meinungsfreiheit"
       ],
       "correctAnswer": 2,
-      "sourcePage": 4
+      "sourcePage": 4,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-10",
@@ -129,7 +192,14 @@ const QUESTION_BANK = {
         "die Geldstrafe"
       ],
       "correctAnswer": 3,
-      "sourcePage": 5
+      "sourcePage": 5,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-11",
@@ -142,7 +212,14 @@ const QUESTION_BANK = {
         "Verfassungsvertrag"
       ],
       "correctAnswer": 0,
-      "sourcePage": 5
+      "sourcePage": 5,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-12",
@@ -155,7 +232,14 @@ const QUESTION_BANK = {
         "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
       ],
       "correctAnswer": 2,
-      "sourcePage": 5
+      "sourcePage": 5,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-13",
@@ -168,7 +252,14 @@ const QUESTION_BANK = {
         "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
       ],
       "correctAnswer": 3,
-      "sourcePage": 6
+      "sourcePage": 6,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-14",
@@ -181,7 +272,14 @@ const QUESTION_BANK = {
         "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche."
       ],
       "correctAnswer": 1,
-      "sourcePage": 6
+      "sourcePage": 6,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-15",
@@ -194,7 +292,14 @@ const QUESTION_BANK = {
         "Arbeit im Ausland"
       ],
       "correctAnswer": 1,
-      "sourcePage": 6
+      "sourcePage": 6,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-16",
@@ -207,7 +312,14 @@ const QUESTION_BANK = {
         "bei Kritik am Staat"
       ],
       "correctAnswer": 0,
-      "sourcePage": 7
+      "sourcePage": 7,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-17",
@@ -220,7 +332,14 @@ const QUESTION_BANK = {
         "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat."
       ],
       "correctAnswer": 3,
-      "sourcePage": 7
+      "sourcePage": 7,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-18",
@@ -233,7 +352,14 @@ const QUESTION_BANK = {
         "Meinungsfreiheit"
       ],
       "correctAnswer": 0,
-      "sourcePage": 7
+      "sourcePage": 7,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-19",
@@ -246,7 +372,14 @@ const QUESTION_BANK = {
         "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
       ],
       "correctAnswer": 0,
-      "sourcePage": 8
+      "sourcePage": 8,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-20",
@@ -259,7 +392,14 @@ const QUESTION_BANK = {
         "verfassungswidrig."
       ],
       "correctAnswer": 3,
-      "sourcePage": 8
+      "sourcePage": 8,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-21",
@@ -278,6 +418,13 @@ const QUESTION_BANK = {
         "assets/questions/optimized/p9_img2_1955.webp",
         "assets/questions/optimized/p9_img3_1958.webp",
         "assets/questions/optimized/p9_img4_1957.webp"
+      ],
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
       ]
     },
     {
@@ -291,7 +438,14 @@ const QUESTION_BANK = {
         "Fürstentum"
       ],
       "correctAnswer": 2,
-      "sourcePage": 9
+      "sourcePage": 9,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-23",
@@ -304,7 +458,14 @@ const QUESTION_BANK = {
         "bei einer Firma oder Behörde beschäftigt."
       ],
       "correctAnswer": 3,
-      "sourcePage": 10
+      "sourcePage": 10,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-24",
@@ -317,7 +478,14 @@ const QUESTION_BANK = {
         "17"
       ],
       "correctAnswer": 2,
-      "sourcePage": 10
+      "sourcePage": 10,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-25",
@@ -330,7 +498,14 @@ const QUESTION_BANK = {
         "Sachsen-Anhalt"
       ],
       "correctAnswer": 0,
-      "sourcePage": 10
+      "sourcePage": 10,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-26",
@@ -343,7 +518,14 @@ const QUESTION_BANK = {
         "ein sozialer und sozialistischer Bundesstaat."
       ],
       "correctAnswer": 1,
-      "sourcePage": 11
+      "sourcePage": 11,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-27",
@@ -356,7 +538,14 @@ const QUESTION_BANK = {
         "eine Monarchie."
       ],
       "correctAnswer": 1,
-      "sourcePage": 11
+      "sourcePage": 11,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-28",
@@ -369,7 +558,14 @@ const QUESTION_BANK = {
         "die Verwaltung"
       ],
       "correctAnswer": 2,
-      "sourcePage": 11
+      "sourcePage": 11,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-29",
@@ -382,7 +578,14 @@ const QUESTION_BANK = {
         "Pferd"
       ],
       "correctAnswer": 1,
-      "sourcePage": 12
+      "sourcePage": 12,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-30",
@@ -395,7 +598,14 @@ const QUESTION_BANK = {
         "verschiedene Parteien"
       ],
       "correctAnswer": 1,
-      "sourcePage": 12
+      "sourcePage": 12,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-31",
@@ -408,7 +618,14 @@ const QUESTION_BANK = {
         "Fraktion."
       ],
       "correctAnswer": 1,
-      "sourcePage": 12
+      "sourcePage": 12,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-32",
@@ -421,7 +638,14 @@ const QUESTION_BANK = {
         "Rechtsprechung"
       ],
       "correctAnswer": 2,
-      "sourcePage": 13
+      "sourcePage": 13,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-33",
@@ -434,7 +658,14 @@ const QUESTION_BANK = {
         "bilden Staat und Religionsgemeinschaften eine Einheit."
       ],
       "correctAnswer": 0,
-      "sourcePage": 13
+      "sourcePage": 13,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-34",
@@ -447,7 +678,14 @@ const QUESTION_BANK = {
         "ein Sozialstaat"
       ],
       "correctAnswer": 2,
-      "sourcePage": 13
+      "sourcePage": 13,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-35",
@@ -460,7 +698,14 @@ const QUESTION_BANK = {
         "Vereinsbeiträgen"
       ],
       "correctAnswer": 1,
-      "sourcePage": 14
+      "sourcePage": 14,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-36",
@@ -473,7 +718,14 @@ const QUESTION_BANK = {
         "die Haftpflichtversicherung"
       ],
       "correctAnswer": 0,
-      "sourcePage": 14
+      "sourcePage": 14,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-37",
@@ -486,7 +738,14 @@ const QUESTION_BANK = {
         "Ministerpräsidentin/Ministerpräsident"
       ],
       "correctAnswer": 3,
-      "sourcePage": 14
+      "sourcePage": 14,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-38",
@@ -499,7 +758,14 @@ const QUESTION_BANK = {
         "Zentralstaat."
       ],
       "correctAnswer": 1,
-      "sourcePage": 15
+      "sourcePage": 15,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-39",
@@ -512,7 +778,14 @@ const QUESTION_BANK = {
         "eine eigene Regierung"
       ],
       "correctAnswer": 3,
-      "sourcePage": 15
+      "sourcePage": 15,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-40",
@@ -525,7 +798,14 @@ const QUESTION_BANK = {
         "Deutschland einig Vaterland …"
       ],
       "correctAnswer": 1,
-      "sourcePage": 15
+      "sourcePage": 15,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-41",
@@ -538,7 +818,14 @@ const QUESTION_BANK = {
         "um wirtschaftlichen Wettbewerb anzuregen"
       ],
       "correctAnswer": 0,
-      "sourcePage": 16
+      "sourcePage": 16,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-42",
@@ -551,7 +838,14 @@ const QUESTION_BANK = {
         "die Polizei"
       ],
       "correctAnswer": 1,
-      "sourcePage": 16
+      "sourcePage": 16,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-43",
@@ -564,7 +858,14 @@ const QUESTION_BANK = {
         "wenn ihr Programm eine neue Richtung vorschlägt"
       ],
       "correctAnswer": 1,
-      "sourcePage": 16
+      "sourcePage": 16,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-44",
@@ -577,7 +878,14 @@ const QUESTION_BANK = {
         "Bundestagsabgeordnete"
       ],
       "correctAnswer": 1,
-      "sourcePage": 17
+      "sourcePage": 17,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-45",
@@ -590,7 +898,14 @@ const QUESTION_BANK = {
         "Haftpflicht- und Feuerversicherung"
       ],
       "correctAnswer": 0,
-      "sourcePage": 17
+      "sourcePage": 17,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-46",
@@ -603,7 +918,14 @@ const QUESTION_BANK = {
         "Er produziert Autos und Busse."
       ],
       "correctAnswer": 0,
-      "sourcePage": 17
+      "sourcePage": 17,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-47",
@@ -616,7 +938,14 @@ const QUESTION_BANK = {
         "Er fördert Sportlerinnen und Sportler."
       ],
       "correctAnswer": 0,
-      "sourcePage": 18
+      "sourcePage": 18,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-48",
@@ -629,7 +958,14 @@ const QUESTION_BANK = {
         "die Regierung"
       ],
       "correctAnswer": 2,
-      "sourcePage": 18
+      "sourcePage": 18,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-49",
@@ -642,7 +978,14 @@ const QUESTION_BANK = {
         "die Universitäten"
       ],
       "correctAnswer": 1,
-      "sourcePage": 18
+      "sourcePage": 18,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-50",
@@ -655,7 +998,14 @@ const QUESTION_BANK = {
         "Planwirtschaft."
       ],
       "correctAnswer": 1,
-      "sourcePage": 19
+      "sourcePage": 19,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-51",
@@ -668,7 +1018,14 @@ const QUESTION_BANK = {
         "jemand ein Verbrechen begeht und deshalb verhaftet wird."
       ],
       "correctAnswer": 2,
-      "sourcePage": 19
+      "sourcePage": 19,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-52",
@@ -681,7 +1038,14 @@ const QUESTION_BANK = {
         "Bundesverfassungsgericht aus."
       ],
       "correctAnswer": 0,
-      "sourcePage": 19
+      "sourcePage": 19,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-53",
@@ -694,7 +1058,14 @@ const QUESTION_BANK = {
         "Der Staat muss die Gesetze einhalten."
       ],
       "correctAnswer": 3,
-      "sourcePage": 20
+      "sourcePage": 20,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-54",
@@ -707,7 +1078,14 @@ const QUESTION_BANK = {
         "Direktive"
       ],
       "correctAnswer": 3,
-      "sourcePage": 20
+      "sourcePage": 20,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-55",
@@ -721,7 +1099,14 @@ const QUESTION_BANK = {
       ],
       "correctAnswer": 0,
       "sourcePage": 21,
-      "image": "assets/questions/optimized/p21_img1_1971.webp"
+      "image": "assets/questions/optimized/p21_img1_1971.webp",
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-56",
@@ -734,7 +1119,14 @@ const QUESTION_BANK = {
         "Auswärtiges Amt"
       ],
       "correctAnswer": 1,
-      "sourcePage": 21
+      "sourcePage": 21,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-57",
@@ -747,7 +1139,14 @@ const QUESTION_BANK = {
         "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion"
       ],
       "correctAnswer": 3,
-      "sourcePage": 22
+      "sourcePage": 22,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-58",
@@ -760,7 +1159,14 @@ const QUESTION_BANK = {
         "die Bundestagspräsidentin/der Bundestagspräsident"
       ],
       "correctAnswer": 1,
-      "sourcePage": 22
+      "sourcePage": 22,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-59",
@@ -773,7 +1179,14 @@ const QUESTION_BANK = {
         "vor etwa 1700 Jahren"
       ],
       "correctAnswer": 3,
-      "sourcePage": 22
+      "sourcePage": 22,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-60",
@@ -786,7 +1199,14 @@ const QUESTION_BANK = {
         "Judikative."
       ],
       "correctAnswer": 1,
-      "sourcePage": 23
+      "sourcePage": 23,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-61",
@@ -799,7 +1219,14 @@ const QUESTION_BANK = {
         "Die Staatsgewalt geht vom Volke aus."
       ],
       "correctAnswer": 3,
-      "sourcePage": 23
+      "sourcePage": 23,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-62",
@@ -812,7 +1239,14 @@ const QUESTION_BANK = {
         "Bundestagswahl"
       ],
       "correctAnswer": 1,
-      "sourcePage": 23
+      "sourcePage": 23,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-63",
@@ -825,7 +1259,14 @@ const QUESTION_BANK = {
         "die Ministerien"
       ],
       "correctAnswer": 1,
-      "sourcePage": 24
+      "sourcePage": 24,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-64",
@@ -838,7 +1279,14 @@ const QUESTION_BANK = {
         "Bund, Länder und Kommunen."
       ],
       "correctAnswer": 3,
-      "sourcePage": 24
+      "sourcePage": 24,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-65",
@@ -851,7 +1299,14 @@ const QUESTION_BANK = {
         "das Bundeskabinett zu bilden."
       ],
       "correctAnswer": 3,
-      "sourcePage": 24
+      "sourcePage": 24,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-66",
@@ -864,7 +1319,14 @@ const QUESTION_BANK = {
         "Worms und Speyer"
       ],
       "correctAnswer": 0,
-      "sourcePage": 25
+      "sourcePage": 25,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-67",
@@ -877,7 +1339,14 @@ const QUESTION_BANK = {
         "Schulpolitik"
       ],
       "correctAnswer": 3,
-      "sourcePage": 25
+      "sourcePage": 25,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-68",
@@ -890,7 +1359,14 @@ const QUESTION_BANK = {
         "weil es nach dem Grundgesetz seine Aufgabe ist"
       ],
       "correctAnswer": 3,
-      "sourcePage": 25
+      "sourcePage": 25,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-69",
@@ -903,7 +1379,14 @@ const QUESTION_BANK = {
         "Bezirksämter"
       ],
       "correctAnswer": 2,
-      "sourcePage": 26
+      "sourcePage": 26,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-70",
@@ -917,7 +1400,14 @@ const QUESTION_BANK = {
       ],
       "correctAnswer": 3,
       "sourcePage": 27,
-      "image": "assets/questions/optimized/p27_img1_1983.webp"
+      "image": "assets/questions/optimized/p27_img1_1983.webp",
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-71",
@@ -930,7 +1420,14 @@ const QUESTION_BANK = {
         "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
       ],
       "correctAnswer": 3,
-      "sourcePage": 28
+      "sourcePage": 28,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-72",
@@ -943,7 +1440,14 @@ const QUESTION_BANK = {
         "Friedrich Merz"
       ],
       "correctAnswer": 3,
-      "sourcePage": 28
+      "sourcePage": 28,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-73",
@@ -956,7 +1460,14 @@ const QUESTION_BANK = {
         "Die Linke und CDU/CSU."
       ],
       "correctAnswer": 0,
-      "sourcePage": 28
+      "sourcePage": 28,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-74",
@@ -969,7 +1480,14 @@ const QUESTION_BANK = {
         "Bundesgerichtshof"
       ],
       "correctAnswer": 2,
-      "sourcePage": 29
+      "sourcePage": 29,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-75",
@@ -982,7 +1500,14 @@ const QUESTION_BANK = {
         "Joachim Gauck"
       ],
       "correctAnswer": 0,
-      "sourcePage": 29
+      "sourcePage": 29,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-76",
@@ -995,7 +1520,14 @@ const QUESTION_BANK = {
         "Christlich Demokratische Union"
       ],
       "correctAnswer": 3,
-      "sourcePage": 29
+      "sourcePage": 29,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-77",
@@ -1008,7 +1540,14 @@ const QUESTION_BANK = {
         "die deutsche Armee"
       ],
       "correctAnswer": 3,
-      "sourcePage": 30
+      "sourcePage": 30,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-78",
@@ -1021,7 +1560,14 @@ const QUESTION_BANK = {
         "Sozialgerechte Partei Deutschlands"
       ],
       "correctAnswer": 2,
-      "sourcePage": 30
+      "sourcePage": 30,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-79",
@@ -1034,7 +1580,14 @@ const QUESTION_BANK = {
         "Freie Demokratische Partei"
       ],
       "correctAnswer": 3,
-      "sourcePage": 30
+      "sourcePage": 30,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-80",
@@ -1047,7 +1600,14 @@ const QUESTION_BANK = {
         "Verwaltungsgericht"
       ],
       "correctAnswer": 2,
-      "sourcePage": 31
+      "sourcePage": 31,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-81",
@@ -1060,7 +1620,14 @@ const QUESTION_BANK = {
         "der Bundestag"
       ],
       "correctAnswer": 3,
-      "sourcePage": 31
+      "sourcePage": 31,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-82",
@@ -1073,7 +1640,14 @@ const QUESTION_BANK = {
         "die Bundeskanzlerin/der Bundeskanzler"
       ],
       "correctAnswer": 3,
-      "sourcePage": 31
+      "sourcePage": 31,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-83",
@@ -1086,7 +1660,14 @@ const QUESTION_BANK = {
         "die Bundesregierung"
       ],
       "correctAnswer": 2,
-      "sourcePage": 32
+      "sourcePage": 32,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-84",
@@ -1099,7 +1680,14 @@ const QUESTION_BANK = {
         "überwacht die Einhaltung der Gesetze."
       ],
       "correctAnswer": 2,
-      "sourcePage": 32
+      "sourcePage": 32,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-85",
@@ -1112,7 +1700,14 @@ const QUESTION_BANK = {
         "die Parteimitglieder"
       ],
       "correctAnswer": 2,
-      "sourcePage": 32
+      "sourcePage": 32,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-86",
@@ -1125,7 +1720,14 @@ const QUESTION_BANK = {
         "das Bundesverfassungsgericht"
       ],
       "correctAnswer": 0,
-      "sourcePage": 33
+      "sourcePage": 33,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-87",
@@ -1138,7 +1740,14 @@ const QUESTION_BANK = {
         "die Bundestagspräsidentin/der Bundestagspräsident"
       ],
       "correctAnswer": 1,
-      "sourcePage": 33
+      "sourcePage": 33,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-88",
@@ -1151,7 +1760,14 @@ const QUESTION_BANK = {
         "schlägt die Regierungschefinnen/Regierungschefs der Länder vor."
       ],
       "correctAnswer": 0,
-      "sourcePage": 33
+      "sourcePage": 33,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-89",
@@ -1164,7 +1780,14 @@ const QUESTION_BANK = {
         "Opposition"
       ],
       "correctAnswer": 2,
-      "sourcePage": 34
+      "sourcePage": 34,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-90",
@@ -1177,7 +1800,14 @@ const QUESTION_BANK = {
         "die Bundesregierung."
       ],
       "correctAnswer": 0,
-      "sourcePage": 34
+      "sourcePage": 34,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-91",
@@ -1190,7 +1820,14 @@ const QUESTION_BANK = {
         "leichter, wenn es sich um ein reiches Bundesland handelt."
       ],
       "correctAnswer": 2,
-      "sourcePage": 34
+      "sourcePage": 34,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-92",
@@ -1203,7 +1840,14 @@ const QUESTION_BANK = {
         "Christlich Soziale Union"
       ],
       "correctAnswer": 3,
-      "sourcePage": 35
+      "sourcePage": 35,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-93",
@@ -1216,7 +1860,14 @@ const QUESTION_BANK = {
         "mehr Sitze erhält die Partei im Parlament."
       ],
       "correctAnswer": 3,
-      "sourcePage": 35
+      "sourcePage": 35,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-94",
@@ -1229,7 +1880,14 @@ const QUESTION_BANK = {
         "23"
       ],
       "correctAnswer": 1,
-      "sourcePage": 35
+      "sourcePage": 35,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-95",
@@ -1242,7 +1900,14 @@ const QUESTION_BANK = {
         "Religionspflicht"
       ],
       "correctAnswer": 1,
-      "sourcePage": 36
+      "sourcePage": 36,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-96",
@@ -1255,7 +1920,14 @@ const QUESTION_BANK = {
         "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
       ],
       "correctAnswer": 3,
-      "sourcePage": 36
+      "sourcePage": 36,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-97",
@@ -1268,7 +1940,14 @@ const QUESTION_BANK = {
         "Wohngeld"
       ],
       "correctAnswer": 0,
-      "sourcePage": 36
+      "sourcePage": 36,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-98",
@@ -1281,7 +1960,14 @@ const QUESTION_BANK = {
         "dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen."
       ],
       "correctAnswer": 1,
-      "sourcePage": 37
+      "sourcePage": 37,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-99",
@@ -1294,7 +1980,14 @@ const QUESTION_BANK = {
         "nur Arbeitgeberinnen/Arbeitgeber"
       ],
       "correctAnswer": 0,
-      "sourcePage": 37
+      "sourcePage": 37,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-100",
@@ -1307,7 +2000,14 @@ const QUESTION_BANK = {
         "die Pflegeversicherung"
       ],
       "correctAnswer": 0,
-      "sourcePage": 37
+      "sourcePage": 37,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-101",
@@ -1320,7 +2020,14 @@ const QUESTION_BANK = {
         "Arbeitgeberinnen und Arbeitgeber."
       ],
       "correctAnswer": 1,
-      "sourcePage": 38
+      "sourcePage": 38,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-102",
@@ -1333,7 +2040,14 @@ const QUESTION_BANK = {
         "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
       ],
       "correctAnswer": 0,
-      "sourcePage": 38
+      "sourcePage": 38,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-103",
@@ -1346,7 +2060,14 @@ const QUESTION_BANK = {
         "der Bundestagsfraktionen von CDU und SPD"
       ],
       "correctAnswer": 1,
-      "sourcePage": 38
+      "sourcePage": 38,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-104",
@@ -1359,7 +2080,14 @@ const QUESTION_BANK = {
         "Die Frau bekommt ein Kind und ihr Chef weiß das."
       ],
       "correctAnswer": 3,
-      "sourcePage": 39
+      "sourcePage": 39,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-105",
@@ -1372,7 +2100,14 @@ const QUESTION_BANK = {
         "Sie zählen die Stimmen nach dem Ende der Wahl."
       ],
       "correctAnswer": 3,
-      "sourcePage": 39
+      "sourcePage": 39,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-106",
@@ -1385,7 +2120,14 @@ const QUESTION_BANK = {
         "Sie zählen die Stimmen nach dem Ende der Wahl."
       ],
       "correctAnswer": 3,
-      "sourcePage": 39
+      "sourcePage": 39,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-107",
@@ -1398,7 +2140,14 @@ const QUESTION_BANK = {
         "8 Jahre"
       ],
       "correctAnswer": 1,
-      "sourcePage": 40
+      "sourcePage": 40,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-108",
@@ -1411,7 +2160,14 @@ const QUESTION_BANK = {
         "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
       ],
       "correctAnswer": 1,
-      "sourcePage": 40
+      "sourcePage": 40,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-109",
@@ -1424,7 +2180,14 @@ const QUESTION_BANK = {
         "alle sechs Jahre"
       ],
       "correctAnswer": 1,
-      "sourcePage": 40
+      "sourcePage": 40,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-110",
@@ -1437,7 +2200,14 @@ const QUESTION_BANK = {
         "5 Jahre"
       ],
       "correctAnswer": 2,
-      "sourcePage": 41
+      "sourcePage": 41,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-111",
@@ -1450,7 +2220,14 @@ const QUESTION_BANK = {
         "der öffentliche Aufruf zur Vernichtung Israels"
       ],
       "correctAnswer": 3,
-      "sourcePage": 41
+      "sourcePage": 41,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-112",
@@ -1463,7 +2240,14 @@ const QUESTION_BANK = {
         "geschlechtsabhängig."
       ],
       "correctAnswer": 1,
-      "sourcePage": 41
+      "sourcePage": 41,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-113",
@@ -1476,7 +2260,14 @@ const QUESTION_BANK = {
         "die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat."
       ],
       "correctAnswer": 0,
-      "sourcePage": 42
+      "sourcePage": 42,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-114",
@@ -1489,7 +2280,14 @@ const QUESTION_BANK = {
         "eine Last."
       ],
       "correctAnswer": 1,
-      "sourcePage": 42
+      "sourcePage": 42,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-115",
@@ -1502,7 +2300,14 @@ const QUESTION_BANK = {
         "Man muss zur Auszählung der Stimmen gehen."
       ],
       "correctAnswer": 2,
-      "sourcePage": 42
+      "sourcePage": 42,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-116",
@@ -1515,7 +2320,14 @@ const QUESTION_BANK = {
         "aktives Wahlrecht."
       ],
       "correctAnswer": 3,
-      "sourcePage": 43
+      "sourcePage": 43,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-117",
@@ -1528,7 +2340,14 @@ const QUESTION_BANK = {
         "6%"
       ],
       "correctAnswer": 2,
-      "sourcePage": 43
+      "sourcePage": 43,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-118",
@@ -1541,7 +2360,14 @@ const QUESTION_BANK = {
         "alle Menschen"
       ],
       "correctAnswer": 3,
-      "sourcePage": 43
+      "sourcePage": 43,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-119",
@@ -1554,7 +2380,14 @@ const QUESTION_BANK = {
         "Ich kann frei entscheiden, wo ich wählen gehen möchte."
       ],
       "correctAnswer": 2,
-      "sourcePage": 44
+      "sourcePage": 44,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-120",
@@ -1567,7 +2400,14 @@ const QUESTION_BANK = {
         "allgemeines Männerwahlrecht."
       ],
       "correctAnswer": 2,
-      "sourcePage": 44
+      "sourcePage": 44,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-121",
@@ -1580,7 +2420,14 @@ const QUESTION_BANK = {
         "Richtlinie."
       ],
       "correctAnswer": 0,
-      "sourcePage": 44
+      "sourcePage": 44,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-122",
@@ -1593,7 +2440,14 @@ const QUESTION_BANK = {
         "sicher, offen, freiwillig."
       ],
       "correctAnswer": 0,
-      "sourcePage": 45
+      "sourcePage": 45,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-123",
@@ -1606,7 +2460,14 @@ const QUESTION_BANK = {
         "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
       ],
       "correctAnswer": 2,
-      "sourcePage": 45
+      "sourcePage": 45,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-124",
@@ -1619,7 +2480,14 @@ const QUESTION_BANK = {
         "der Bundespräsidentin/des Bundespräsidenten."
       ],
       "correctAnswer": 2,
-      "sourcePage": 45
+      "sourcePage": 45,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-125",
@@ -1632,7 +2500,14 @@ const QUESTION_BANK = {
         "den Armen mehr Macht zu geben."
       ],
       "correctAnswer": 1,
-      "sourcePage": 46
+      "sourcePage": 46,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-126",
@@ -1645,7 +2520,14 @@ const QUESTION_BANK = {
         "eine Benachrichtigung vom Pfarramt"
       ],
       "correctAnswer": 0,
-      "sourcePage": 46
+      "sourcePage": 46,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-127",
@@ -1658,7 +2540,14 @@ const QUESTION_BANK = {
         "die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen."
       ],
       "correctAnswer": 2,
-      "sourcePage": 46
+      "sourcePage": 46,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-128",
@@ -1671,7 +2560,14 @@ const QUESTION_BANK = {
         "Ministerpräsidentinnen/Ministerpräsidenten."
       ],
       "correctAnswer": 0,
-      "sourcePage": 47
+      "sourcePage": 47,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-129",
@@ -1684,7 +2580,14 @@ const QUESTION_BANK = {
         "die Bundespräsidentin/der Bundespräsident."
       ],
       "correctAnswer": 2,
-      "sourcePage": 47
+      "sourcePage": 47,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-130",
@@ -1698,7 +2601,14 @@ const QUESTION_BANK = {
       ],
       "correctAnswer": 0,
       "sourcePage": 48,
-      "image": "assets/questions/optimized/p48_img1_2005.webp"
+      "image": "assets/questions/optimized/p48_img1_2005.webp",
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-131",
@@ -1711,7 +2621,14 @@ const QUESTION_BANK = {
         "die/der Vorsitzende einer Partei."
       ],
       "correctAnswer": 2,
-      "sourcePage": 49
+      "sourcePage": 49,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-132",
@@ -1724,7 +2641,14 @@ const QUESTION_BANK = {
         "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
       ],
       "correctAnswer": 1,
-      "sourcePage": 49
+      "sourcePage": 49,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-133",
@@ -1737,7 +2661,14 @@ const QUESTION_BANK = {
         "Kinder ab dem Alter von 14 Jahren dürfen wählen."
       ],
       "correctAnswer": 1,
-      "sourcePage": 49
+      "sourcePage": 49,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-134",
@@ -1750,7 +2681,14 @@ const QUESTION_BANK = {
         "Ich schreibe einen Brief an das Forstamt der Gemeinde."
       ],
       "correctAnswer": 0,
-      "sourcePage": 50
+      "sourcePage": 50,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-135",
@@ -1763,7 +2701,14 @@ const QUESTION_BANK = {
         "Arbeitnehmerinnen und Arbeitnehmer"
       ],
       "correctAnswer": 3,
-      "sourcePage": 50
+      "sourcePage": 50,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-136",
@@ -1776,7 +2721,14 @@ const QUESTION_BANK = {
         "Schwierigkeiten nach einem Verkehrsunfall."
       ],
       "correctAnswer": 1,
-      "sourcePage": 50
+      "sourcePage": 50,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-137",
@@ -1789,7 +2741,14 @@ const QUESTION_BANK = {
         "das Amtsgericht"
       ],
       "correctAnswer": 2,
-      "sourcePage": 51
+      "sourcePage": 51,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-138",
@@ -1802,7 +2761,14 @@ const QUESTION_BANK = {
         "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen"
       ],
       "correctAnswer": 2,
-      "sourcePage": 51
+      "sourcePage": 51,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-139",
@@ -1815,7 +2781,14 @@ const QUESTION_BANK = {
         "sein Auto falsch geparkt hat und es abgeschleppt wird."
       ],
       "correctAnswer": 1,
-      "sourcePage": 51
+      "sourcePage": 51,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-140",
@@ -1828,7 +2801,14 @@ const QUESTION_BANK = {
         "verteidigt die Angeklagte/den Angeklagten."
       ],
       "correctAnswer": 0,
-      "sourcePage": 52
+      "sourcePage": 52,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-141",
@@ -1841,7 +2821,14 @@ const QUESTION_BANK = {
         "eine Staatsanwältin/ein Staatsanwalt"
       ],
       "correctAnswer": 0,
-      "sourcePage": 52
+      "sourcePage": 52,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-142",
@@ -1854,7 +2841,14 @@ const QUESTION_BANK = {
         "betreut Jugendliche vor Gericht."
       ],
       "correctAnswer": 1,
-      "sourcePage": 52
+      "sourcePage": 52,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-143",
@@ -1867,7 +2861,14 @@ const QUESTION_BANK = {
         "Legislative."
       ],
       "correctAnswer": 0,
-      "sourcePage": 53
+      "sourcePage": 53,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-144",
@@ -1880,7 +2881,14 @@ const QUESTION_BANK = {
         "gesetzgebenden Gewalt."
       ],
       "correctAnswer": 1,
-      "sourcePage": 53
+      "sourcePage": 53,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-145",
@@ -1893,7 +2901,14 @@ const QUESTION_BANK = {
         "Legislative"
       ],
       "correctAnswer": 0,
-      "sourcePage": 53
+      "sourcePage": 53,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-146",
@@ -1906,7 +2921,14 @@ const QUESTION_BANK = {
         "Prozess"
       ],
       "correctAnswer": 3,
-      "sourcePage": 54
+      "sourcePage": 54,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-147",
@@ -1919,7 +2941,14 @@ const QUESTION_BANK = {
         "Gesetze erlassen"
       ],
       "correctAnswer": 1,
-      "sourcePage": 54
+      "sourcePage": 54,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-148",
@@ -1932,7 +2961,14 @@ const QUESTION_BANK = {
         "die Einhaltung von Gesetzen zu überwachen"
       ],
       "correctAnswer": 3,
-      "sourcePage": 54
+      "sourcePage": 54,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-149",
@@ -1945,7 +2981,14 @@ const QUESTION_BANK = {
         "gegen Juden Fußball spielen."
       ],
       "correctAnswer": 2,
-      "sourcePage": 55
+      "sourcePage": 55,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-150",
@@ -1958,7 +3001,14 @@ const QUESTION_BANK = {
         "eine Person, die Jura studiert hat."
       ],
       "correctAnswer": 1,
-      "sourcePage": 55
+      "sourcePage": 55,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-151",
@@ -1971,7 +3021,14 @@ const QUESTION_BANK = {
         "die USA"
       ],
       "correctAnswer": 1,
-      "sourcePage": 55
+      "sourcePage": 55,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-152",
@@ -1984,7 +3041,14 @@ const QUESTION_BANK = {
         "1945 bis 1989"
       ],
       "correctAnswer": 2,
-      "sourcePage": 56
+      "sourcePage": 56,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-153",
@@ -1997,7 +3061,14 @@ const QUESTION_BANK = {
         "Ende des Zweiten Weltkriegs in Europa"
       ],
       "correctAnswer": 3,
-      "sourcePage": 56
+      "sourcePage": 56,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-154",
@@ -2010,7 +3081,14 @@ const QUESTION_BANK = {
         "1961"
       ],
       "correctAnswer": 1,
-      "sourcePage": 56
+      "sourcePage": 56,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-155",
@@ -2023,7 +3101,14 @@ const QUESTION_BANK = {
         "1949 bis 1963"
       ],
       "correctAnswer": 2,
-      "sourcePage": 57
+      "sourcePage": 57,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-156",
@@ -2036,7 +3121,14 @@ const QUESTION_BANK = {
         "1936"
       ],
       "correctAnswer": 2,
-      "sourcePage": 57
+      "sourcePage": 57,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-157",
@@ -2049,7 +3141,14 @@ const QUESTION_BANK = {
         "ein Fürstentum."
       ],
       "correctAnswer": 0,
-      "sourcePage": 57
+      "sourcePage": 57,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-158",
@@ -2062,7 +3161,14 @@ const QUESTION_BANK = {
         "Räterepublik."
       ],
       "correctAnswer": 0,
-      "sourcePage": 58
+      "sourcePage": 58,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-159",
@@ -2075,7 +3181,14 @@ const QUESTION_BANK = {
         "Verfolgung von Juden"
       ],
       "correctAnswer": 0,
-      "sourcePage": 58
+      "sourcePage": 58,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-160",
@@ -2088,7 +3201,14 @@ const QUESTION_BANK = {
         "der Golfkrieg"
       ],
       "correctAnswer": 1,
-      "sourcePage": 58
+      "sourcePage": 58,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-161",
@@ -2101,7 +3221,14 @@ const QUESTION_BANK = {
         "der Entwicklung der Demokratie"
       ],
       "correctAnswer": 0,
-      "sourcePage": 59
+      "sourcePage": 59,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-162",
@@ -2114,7 +3241,14 @@ const QUESTION_BANK = {
         "das Attentat auf Hitler am 20. Juli 1944."
       ],
       "correctAnswer": 3,
-      "sourcePage": 59
+      "sourcePage": 59,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-163",
@@ -2127,7 +3261,14 @@ const QUESTION_BANK = {
         "1945"
       ],
       "correctAnswer": 2,
-      "sourcePage": 59
+      "sourcePage": 59,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-164",
@@ -2140,7 +3281,14 @@ const QUESTION_BANK = {
         "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
       ],
       "correctAnswer": 2,
-      "sourcePage": 60
+      "sourcePage": 60,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-165",
@@ -2153,7 +3301,14 @@ const QUESTION_BANK = {
         "Willy Brandt"
       ],
       "correctAnswer": 0,
-      "sourcePage": 60
+      "sourcePage": 60,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-166",
@@ -2166,7 +3321,14 @@ const QUESTION_BANK = {
         "bei den Montagsdemonstrationen 1989 in der DDR"
       ],
       "correctAnswer": 3,
-      "sourcePage": 60
+      "sourcePage": 60,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-167",
@@ -2179,7 +3341,14 @@ const QUESTION_BANK = {
         "USA, Sowjetunion, Großbritannien, Frankreich"
       ],
       "correctAnswer": 3,
-      "sourcePage": 61
+      "sourcePage": 61,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-168",
@@ -2192,7 +3361,14 @@ const QUESTION_BANK = {
         "Japan"
       ],
       "correctAnswer": 3,
-      "sourcePage": 61
+      "sourcePage": 61,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-169",
@@ -2205,7 +3381,14 @@ const QUESTION_BANK = {
         "1951"
       ],
       "correctAnswer": 2,
-      "sourcePage": 61
+      "sourcePage": 61,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-170",
@@ -2218,7 +3401,14 @@ const QUESTION_BANK = {
         "den Schutz der Menschenwürde"
       ],
       "correctAnswer": 0,
-      "sourcePage": 62
+      "sourcePage": 62,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-171",
@@ -2231,7 +3421,14 @@ const QUESTION_BANK = {
         "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
       ],
       "correctAnswer": 3,
-      "sourcePage": 62
+      "sourcePage": 62,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-172",
@@ -2244,7 +3441,14 @@ const QUESTION_BANK = {
         "sowjetischen Besatzungszone"
       ],
       "correctAnswer": 3,
-      "sourcePage": 62
+      "sourcePage": 62,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-173",
@@ -2257,7 +3461,14 @@ const QUESTION_BANK = {
         "des Warschauer Pakts."
       ],
       "correctAnswer": 2,
-      "sourcePage": 63
+      "sourcePage": 63,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-174",
@@ -2270,7 +3481,14 @@ const QUESTION_BANK = {
         "1956"
       ],
       "correctAnswer": 1,
-      "sourcePage": 63
+      "sourcePage": 63,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-175",
@@ -2283,7 +3501,14 @@ const QUESTION_BANK = {
         "6"
       ],
       "correctAnswer": 1,
-      "sourcePage": 63
+      "sourcePage": 63,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-176",
@@ -2297,7 +3522,14 @@ const QUESTION_BANK = {
       ],
       "correctAnswer": 2,
       "sourcePage": 64,
-      "image": "assets/questions/optimized/p64_img1_2022.webp"
+      "image": "assets/questions/optimized/p64_img1_2022.webp",
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-177",
@@ -2310,7 +3542,14 @@ const QUESTION_BANK = {
         "Frankfurt/Oder"
       ],
       "correctAnswer": 1,
-      "sourcePage": 65
+      "sourcePage": 65,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-178",
@@ -2323,7 +3562,14 @@ const QUESTION_BANK = {
         "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
       ],
       "correctAnswer": 3,
-      "sourcePage": 65
+      "sourcePage": 65,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-179",
@@ -2336,7 +3582,14 @@ const QUESTION_BANK = {
         "durch eine Revolution in Deutschland"
       ],
       "correctAnswer": 1,
-      "sourcePage": 65
+      "sourcePage": 65,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-180",
@@ -2349,7 +3602,14 @@ const QUESTION_BANK = {
         "Gerhard Schröder."
       ],
       "correctAnswer": 2,
-      "sourcePage": 66
+      "sourcePage": 66,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-181",
@@ -2363,7 +3623,14 @@ const QUESTION_BANK = {
       ],
       "correctAnswer": 1,
       "sourcePage": 67,
-      "image": "assets/questions/optimized/p67_img1_2026.webp"
+      "image": "assets/questions/optimized/p67_img1_2026.webp",
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-182",
@@ -2376,7 +3643,14 @@ const QUESTION_BANK = {
         "Kirche"
       ],
       "correctAnswer": 2,
-      "sourcePage": 68
+      "sourcePage": 68,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-183",
@@ -2389,7 +3663,14 @@ const QUESTION_BANK = {
         "80er Jahre"
       ],
       "correctAnswer": 1,
-      "sourcePage": 68
+      "sourcePage": 68,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-184",
@@ -2402,7 +3683,14 @@ const QUESTION_BANK = {
         "ein Vorschlag der UdSSR"
       ],
       "correctAnswer": 0,
-      "sourcePage": 68
+      "sourcePage": 68,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-185",
@@ -2415,7 +3703,14 @@ const QUESTION_BANK = {
         "Europas gegen die USA"
       ],
       "correctAnswer": 0,
-      "sourcePage": 69
+      "sourcePage": 69,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-186",
@@ -2428,7 +3723,14 @@ const QUESTION_BANK = {
         "9. November"
       ],
       "correctAnswer": 1,
-      "sourcePage": 69
+      "sourcePage": 69,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-187",
@@ -2442,7 +3744,14 @@ const QUESTION_BANK = {
       ],
       "correctAnswer": 3,
       "sourcePage": 70,
-      "image": "assets/questions/optimized/p70_img1_2030.webp"
+      "image": "assets/questions/optimized/p70_img1_2030.webp",
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-188",
@@ -2455,7 +3764,14 @@ const QUESTION_BANK = {
         "1961"
       ],
       "correctAnswer": 3,
-      "sourcePage": 70
+      "sourcePage": 70,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-189",
@@ -2468,7 +3784,14 @@ const QUESTION_BANK = {
         "1990"
       ],
       "correctAnswer": 2,
-      "sourcePage": 71
+      "sourcePage": 71,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-190",
@@ -2481,7 +3804,14 @@ const QUESTION_BANK = {
         "Deutsche Demokratische Republik"
       ],
       "correctAnswer": 3,
-      "sourcePage": 71
+      "sourcePage": 71,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-191",
@@ -2494,7 +3824,14 @@ const QUESTION_BANK = {
         "1995"
       ],
       "correctAnswer": 1,
-      "sourcePage": 71
+      "sourcePage": 71,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-192",
@@ -2507,7 +3844,14 @@ const QUESTION_BANK = {
         "Hessen"
       ],
       "correctAnswer": 0,
-      "sourcePage": 72
+      "sourcePage": 72,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-193",
@@ -2520,7 +3864,14 @@ const QUESTION_BANK = {
         "nur mit dem Flugzeug erreichbar."
       ],
       "correctAnswer": 2,
-      "sourcePage": 72
+      "sourcePage": 72,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-194",
@@ -2533,7 +3884,14 @@ const QUESTION_BANK = {
         "Städte."
       ],
       "correctAnswer": 0,
-      "sourcePage": 72
+      "sourcePage": 72,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-195",
@@ -2546,7 +3904,14 @@ const QUESTION_BANK = {
         "Saarland"
       ],
       "correctAnswer": 1,
-      "sourcePage": 73
+      "sourcePage": 73,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-196",
@@ -2559,7 +3924,14 @@ const QUESTION_BANK = {
         "von einem religiösen Staat zu einem kommunistischen Staat."
       ],
       "correctAnswer": 0,
-      "sourcePage": 73
+      "sourcePage": 73,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-197",
@@ -2572,7 +3944,14 @@ const QUESTION_BANK = {
         "Bremen"
       ],
       "correctAnswer": 0,
-      "sourcePage": 73
+      "sourcePage": 73,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-198",
@@ -2585,7 +3964,14 @@ const QUESTION_BANK = {
         "Baden-Württemberg"
       ],
       "correctAnswer": 2,
-      "sourcePage": 74
+      "sourcePage": 74,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-199",
@@ -2598,7 +3984,14 @@ const QUESTION_BANK = {
         "das Ministerium für Volksbildung."
       ],
       "correctAnswer": 1,
-      "sourcePage": 74
+      "sourcePage": 74,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-200",
@@ -2611,7 +4004,14 @@ const QUESTION_BANK = {
         "Saarland"
       ],
       "correctAnswer": 2,
-      "sourcePage": 74
+      "sourcePage": 74,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-201",
@@ -2624,7 +4024,14 @@ const QUESTION_BANK = {
         "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
       ],
       "correctAnswer": 1,
-      "sourcePage": 75
+      "sourcePage": 75,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-202",
@@ -2637,7 +4044,14 @@ const QUESTION_BANK = {
         "zu den blockfreien Staaten"
       ],
       "correctAnswer": 1,
-      "sourcePage": 75
+      "sourcePage": 75,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-203",
@@ -2650,7 +4064,14 @@ const QUESTION_BANK = {
         "Kapitalismus"
       ],
       "correctAnswer": 1,
-      "sourcePage": 75
+      "sourcePage": 75,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-204",
@@ -2663,7 +4084,14 @@ const QUESTION_BANK = {
         "Die DDR hat die Bundesrepublik Deutschland besetzt."
       ],
       "correctAnswer": 1,
-      "sourcePage": 76
+      "sourcePage": 76,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-205",
@@ -2676,7 +4104,14 @@ const QUESTION_BANK = {
         "zur Europäischen Verteidigungsgemeinschaft."
       ],
       "correctAnswer": 0,
-      "sourcePage": 76
+      "sourcePage": 76,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-206",
@@ -2689,7 +4124,14 @@ const QUESTION_BANK = {
         "an bekannte jüdische Musiker"
       ],
       "correctAnswer": 1,
-      "sourcePage": 76
+      "sourcePage": 76,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-207",
@@ -2702,7 +4144,14 @@ const QUESTION_BANK = {
         "im Europabündnis"
       ],
       "correctAnswer": 2,
-      "sourcePage": 77
+      "sourcePage": 77,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-208",
@@ -2715,7 +4164,14 @@ const QUESTION_BANK = {
         "ein deutscher Sportverein während des Zweiten Weltkrieges"
       ],
       "correctAnswer": 2,
-      "sourcePage": 77
+      "sourcePage": 77,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-209",
@@ -2734,6 +4190,13 @@ const QUESTION_BANK = {
         "assets/questions/optimized/p78_img2_1955.webp",
         "assets/questions/optimized/p78_img3_1958.webp",
         "assets/questions/optimized/p78_img4_1957.webp"
+      ],
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
       ]
     },
     {
@@ -2747,7 +4210,14 @@ const QUESTION_BANK = {
         "der erste Besuch Fidel Castros"
       ],
       "correctAnswer": 1,
-      "sourcePage": 78
+      "sourcePage": 78,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-211",
@@ -2760,7 +4230,14 @@ const QUESTION_BANK = {
         "Ludwig Erhard"
       ],
       "correctAnswer": 1,
-      "sourcePage": 79
+      "sourcePage": 79,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-212",
@@ -2773,7 +4250,14 @@ const QUESTION_BANK = {
         "Bundesbezirk Deutschland"
       ],
       "correctAnswer": 2,
-      "sourcePage": 79
+      "sourcePage": 79,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-213",
@@ -2786,7 +4270,14 @@ const QUESTION_BANK = {
         "90 Millionen"
       ],
       "correctAnswer": 2,
-      "sourcePage": 79
+      "sourcePage": 79,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-214",
@@ -2799,7 +4290,14 @@ const QUESTION_BANK = {
         "schwarz-gelb-rot"
       ],
       "correctAnswer": 0,
-      "sourcePage": 80
+      "sourcePage": 80,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-215",
@@ -2812,7 +4310,14 @@ const QUESTION_BANK = {
         "Helmut Schmidt"
       ],
       "correctAnswer": 1,
-      "sourcePage": 80
+      "sourcePage": 80,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-216",
@@ -2826,7 +4331,14 @@ const QUESTION_BANK = {
       ],
       "correctAnswer": 0,
       "sourcePage": 81,
-      "image": "assets/questions/optimized/p81_img1_2042.webp"
+      "image": "assets/questions/optimized/p81_img1_2042.webp",
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-217",
@@ -2839,7 +4351,14 @@ const QUESTION_BANK = {
         "1949 bis 1990"
       ],
       "correctAnswer": 3,
-      "sourcePage": 81
+      "sourcePage": 81,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-218",
@@ -2852,7 +4371,14 @@ const QUESTION_BANK = {
         "7"
       ],
       "correctAnswer": 1,
-      "sourcePage": 82
+      "sourcePage": 82,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-219",
@@ -2865,7 +4391,14 @@ const QUESTION_BANK = {
         "1990"
       ],
       "correctAnswer": 3,
-      "sourcePage": 82
+      "sourcePage": 82,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-220",
@@ -2878,7 +4411,14 @@ const QUESTION_BANK = {
         "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)"
       ],
       "correctAnswer": 3,
-      "sourcePage": 82
+      "sourcePage": 82,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-221",
@@ -2891,7 +4431,14 @@ const QUESTION_BANK = {
         "Deutsche können in jedem Land mit dem Euro bezahlen."
       ],
       "correctAnswer": 0,
-      "sourcePage": 83
+      "sourcePage": 83,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-222",
@@ -2904,7 +4451,14 @@ const QUESTION_BANK = {
         "Schweiz"
       ],
       "correctAnswer": 3,
-      "sourcePage": 83
+      "sourcePage": 83,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-223",
@@ -2917,7 +4471,14 @@ const QUESTION_BANK = {
         "Griechenland"
       ],
       "correctAnswer": 2,
-      "sourcePage": 83
+      "sourcePage": 83,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-224",
@@ -2930,7 +4491,14 @@ const QUESTION_BANK = {
         "Euro Union"
       ],
       "correctAnswer": 1,
-      "sourcePage": 84
+      "sourcePage": 84,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-225",
@@ -2943,7 +4511,14 @@ const QUESTION_BANK = {
         "Österreich"
       ],
       "correctAnswer": 3,
-      "sourcePage": 84
+      "sourcePage": 84,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-226",
@@ -2962,6 +4537,13 @@ const QUESTION_BANK = {
         "assets/questions/optimized/p85_img2_2050.webp",
         "assets/questions/optimized/p85_img3_2048.webp",
         "assets/questions/optimized/p85_img4_2049.webp"
+      ],
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
       ]
     },
     {
@@ -2975,7 +4557,14 @@ const QUESTION_BANK = {
         "Schweden"
       ],
       "correctAnswer": 1,
-      "sourcePage": 85
+      "sourcePage": 85,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-228",
@@ -2988,7 +4577,14 @@ const QUESTION_BANK = {
         "Europäische Gemeinschaft"
       ],
       "correctAnswer": 2,
-      "sourcePage": 85
+      "sourcePage": 85,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-229",
@@ -3001,7 +4597,14 @@ const QUESTION_BANK = {
         "Luxemburg"
       ],
       "correctAnswer": 3,
-      "sourcePage": 86
+      "sourcePage": 86,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-230",
@@ -3014,7 +4617,14 @@ const QUESTION_BANK = {
         "8 Jahre."
       ],
       "correctAnswer": 0,
-      "sourcePage": 86
+      "sourcePage": 86,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-231",
@@ -3027,7 +4637,14 @@ const QUESTION_BANK = {
         "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
       ],
       "correctAnswer": 3,
-      "sourcePage": 86
+      "sourcePage": 86,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-232",
@@ -3040,7 +4657,14 @@ const QUESTION_BANK = {
         "die europäische Verfassung"
       ],
       "correctAnswer": 2,
-      "sourcePage": 87
+      "sourcePage": 87,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-233",
@@ -3053,7 +4677,14 @@ const QUESTION_BANK = {
         "Portugal"
       ],
       "correctAnswer": 0,
-      "sourcePage": 87
+      "sourcePage": 87,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-234",
@@ -3066,7 +4697,14 @@ const QUESTION_BANK = {
         "Straßburg"
       ],
       "correctAnswer": 3,
-      "sourcePage": 87
+      "sourcePage": 87,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-235",
@@ -3080,7 +4718,14 @@ const QUESTION_BANK = {
       ],
       "correctAnswer": 2,
       "sourcePage": 88,
-      "image": "assets/questions/optimized/p88_img1_2054.webp"
+      "image": "assets/questions/optimized/p88_img1_2054.webp",
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-236",
@@ -3093,7 +4738,14 @@ const QUESTION_BANK = {
         "27"
       ],
       "correctAnswer": 3,
-      "sourcePage": 89
+      "sourcePage": 89,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-237",
@@ -3106,7 +4758,14 @@ const QUESTION_BANK = {
         "Festlegung der Oder-Neiße-Linie als Ostgrenze"
       ],
       "correctAnswer": 1,
-      "sourcePage": 89
+      "sourcePage": 89,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-238",
@@ -3119,7 +4778,14 @@ const QUESTION_BANK = {
         "Bonn, Zürich und Mailand"
       ],
       "correctAnswer": 1,
-      "sourcePage": 89
+      "sourcePage": 89,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-239",
@@ -3132,7 +4798,14 @@ const QUESTION_BANK = {
         "durch die \"Londoner Verträge\""
       ],
       "correctAnswer": 1,
-      "sourcePage": 90
+      "sourcePage": 90,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-240",
@@ -3145,7 +4818,14 @@ const QUESTION_BANK = {
         "2005"
       ],
       "correctAnswer": 2,
-      "sourcePage": 90
+      "sourcePage": 90,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-241",
@@ -3158,7 +4838,14 @@ const QUESTION_BANK = {
         "Sie muss das Arbeitsamt um Erlaubnis bitten."
       ],
       "correctAnswer": 1,
-      "sourcePage": 90
+      "sourcePage": 90,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-242",
@@ -3171,7 +4858,14 @@ const QUESTION_BANK = {
         "die Schulen"
       ],
       "correctAnswer": 2,
-      "sourcePage": 91
+      "sourcePage": 91,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-243",
@@ -3184,7 +4878,14 @@ const QUESTION_BANK = {
         "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
       ],
       "correctAnswer": 0,
-      "sourcePage": 91
+      "sourcePage": 91,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-244",
@@ -3197,7 +4898,14 @@ const QUESTION_BANK = {
         "eine Gesellenprüfung"
       ],
       "correctAnswer": 0,
-      "sourcePage": 91
+      "sourcePage": 91,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-245",
@@ -3210,7 +4918,14 @@ const QUESTION_BANK = {
         "Anne (13 Jahre) und Tim (25 Jahre)"
       ],
       "correctAnswer": 3,
-      "sourcePage": 92
+      "sourcePage": 92,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-246",
@@ -3223,7 +4938,14 @@ const QUESTION_BANK = {
         "21"
       ],
       "correctAnswer": 1,
-      "sourcePage": 92
+      "sourcePage": 92,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-247",
@@ -3236,7 +4958,14 @@ const QUESTION_BANK = {
         "Wochenbett"
       ],
       "correctAnswer": 1,
-      "sourcePage": 92
+      "sourcePage": 92,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-248",
@@ -3249,7 +4978,14 @@ const QUESTION_BANK = {
         "der Schulen."
       ],
       "correctAnswer": 1,
-      "sourcePage": 93
+      "sourcePage": 93,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-249",
@@ -3262,7 +4998,14 @@ const QUESTION_BANK = {
         "die Schulen"
       ],
       "correctAnswer": 1,
-      "sourcePage": 93
+      "sourcePage": 93,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-250",
@@ -3275,7 +5018,14 @@ const QUESTION_BANK = {
         "Mitglied einer Partei ist."
       ],
       "correctAnswer": 1,
-      "sourcePage": 93
+      "sourcePage": 93,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-251",
@@ -3288,7 +5038,14 @@ const QUESTION_BANK = {
         "kann man dafür bestraft werden."
       ],
       "correctAnswer": 3,
-      "sourcePage": 94
+      "sourcePage": 94,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-252",
@@ -3301,7 +5058,14 @@ const QUESTION_BANK = {
         "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
       ],
       "correctAnswer": 0,
-      "sourcePage": 94
+      "sourcePage": 94,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-253",
@@ -3314,7 +5078,14 @@ const QUESTION_BANK = {
         "beim Gewerbeamt"
       ],
       "correctAnswer": 0,
-      "sourcePage": 94
+      "sourcePage": 94,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-254",
@@ -3327,7 +5098,14 @@ const QUESTION_BANK = {
         "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
       ],
       "correctAnswer": 3,
-      "sourcePage": 95
+      "sourcePage": 95,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-255",
@@ -3340,7 +5118,14 @@ const QUESTION_BANK = {
         "Gesundheitsamt."
       ],
       "correctAnswer": 2,
-      "sourcePage": 95
+      "sourcePage": 95,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-256",
@@ -3353,7 +5138,14 @@ const QUESTION_BANK = {
         "eine Gaststättenerlaubnis von der zuständigen Behörde"
       ],
       "correctAnswer": 3,
-      "sourcePage": 95
+      "sourcePage": 95,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-257",
@@ -3366,7 +5158,14 @@ const QUESTION_BANK = {
         "einer Privatuniversität."
       ],
       "correctAnswer": 1,
-      "sourcePage": 96
+      "sourcePage": 96,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-258",
@@ -3379,7 +5178,14 @@ const QUESTION_BANK = {
         "Es kontrolliert, ob das Kind einen Kindergarten besucht."
       ],
       "correctAnswer": 1,
-      "sourcePage": 96
+      "sourcePage": 96,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-259",
@@ -3392,7 +5198,14 @@ const QUESTION_BANK = {
         "Krankenversicherung."
       ],
       "correctAnswer": 1,
-      "sourcePage": 96
+      "sourcePage": 96,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-260",
@@ -3405,7 +5218,14 @@ const QUESTION_BANK = {
         "Anwesenheitspflicht."
       ],
       "correctAnswer": 3,
-      "sourcePage": 97
+      "sourcePage": 97,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-261",
@@ -3418,7 +5238,14 @@ const QUESTION_BANK = {
         "einer Privatuniversität."
       ],
       "correctAnswer": 1,
-      "sourcePage": 97
+      "sourcePage": 97,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-262",
@@ -3431,7 +5258,14 @@ const QUESTION_BANK = {
         "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
       ],
       "correctAnswer": 0,
-      "sourcePage": 97
+      "sourcePage": 97,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-263",
@@ -3444,7 +5278,14 @@ const QUESTION_BANK = {
         "werden nicht bestraft."
       ],
       "correctAnswer": 0,
-      "sourcePage": 98
+      "sourcePage": 98,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-264",
@@ -3457,7 +5298,14 @@ const QUESTION_BANK = {
         "an Pfingsten"
       ],
       "correctAnswer": 0,
-      "sourcePage": 98
+      "sourcePage": 98,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-265",
@@ -3470,7 +5318,14 @@ const QUESTION_BANK = {
         "zum Standesamt"
       ],
       "correctAnswer": 3,
-      "sourcePage": 98
+      "sourcePage": 98,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-266",
@@ -3483,7 +5338,14 @@ const QUESTION_BANK = {
         "um 22 Uhr"
       ],
       "correctAnswer": 3,
-      "sourcePage": 99
+      "sourcePage": 99,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-267",
@@ -3496,7 +5358,14 @@ const QUESTION_BANK = {
         "Sie suchen einen anderen Mann für die Tochter."
       ],
       "correctAnswer": 0,
-      "sourcePage": 99
+      "sourcePage": 99,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-268",
@@ -3509,7 +5378,14 @@ const QUESTION_BANK = {
         "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
       ],
       "correctAnswer": 3,
-      "sourcePage": 99
+      "sourcePage": 99,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-269",
@@ -3522,7 +5398,14 @@ const QUESTION_BANK = {
         "einen Ferienpass."
       ],
       "correctAnswer": 2,
-      "sourcePage": 100
+      "sourcePage": 100,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-270",
@@ -3535,7 +5418,14 @@ const QUESTION_BANK = {
         "nur für Rentnerinnen und Rentner."
       ],
       "correctAnswer": 2,
-      "sourcePage": 100
+      "sourcePage": 100,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-271",
@@ -3548,7 +5438,14 @@ const QUESTION_BANK = {
         "Kürbisse vor die Tür stellen"
       ],
       "correctAnswer": 1,
-      "sourcePage": 100
+      "sourcePage": 100,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-272",
@@ -3561,7 +5458,14 @@ const QUESTION_BANK = {
         "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
       ],
       "correctAnswer": 3,
-      "sourcePage": 101
+      "sourcePage": 101,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-273",
@@ -3574,7 +5478,14 @@ const QUESTION_BANK = {
         "zum Jugendamt."
       ],
       "correctAnswer": 3,
-      "sourcePage": 101
+      "sourcePage": 101,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-274",
@@ -3587,7 +5498,14 @@ const QUESTION_BANK = {
         "die Meinungsfreiheit"
       ],
       "correctAnswer": 1,
-      "sourcePage": 101
+      "sourcePage": 101,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-275",
@@ -3600,7 +5518,14 @@ const QUESTION_BANK = {
         "die Unterstützung einer Anwältin/eines Anwalts"
       ],
       "correctAnswer": 3,
-      "sourcePage": 102
+      "sourcePage": 102,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-276",
@@ -3613,7 +5538,14 @@ const QUESTION_BANK = {
         "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren."
       ],
       "correctAnswer": 3,
-      "sourcePage": 102
+      "sourcePage": 102,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-277",
@@ -3626,7 +5558,14 @@ const QUESTION_BANK = {
         "Mutter ist."
       ],
       "correctAnswer": 3,
-      "sourcePage": 102
+      "sourcePage": 102,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-278",
@@ -3639,7 +5578,14 @@ const QUESTION_BANK = {
         "kein Englisch spricht."
       ],
       "correctAnswer": 0,
-      "sourcePage": 103
+      "sourcePage": 103,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-279",
@@ -3652,7 +5598,14 @@ const QUESTION_BANK = {
         "die Adresse des nächsten Ordnungsamtes."
       ],
       "correctAnswer": 2,
-      "sourcePage": 103
+      "sourcePage": 103,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-280",
@@ -3665,7 +5618,14 @@ const QUESTION_BANK = {
         "warten, bis ein anderer Bescheid kommt."
       ],
       "correctAnswer": 2,
-      "sourcePage": 103
+      "sourcePage": 103,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-281",
@@ -3678,7 +5638,14 @@ const QUESTION_BANK = {
         "Freizügigkeit"
       ],
       "correctAnswer": 1,
-      "sourcePage": 104
+      "sourcePage": 104,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-282",
@@ -3691,7 +5658,14 @@ const QUESTION_BANK = {
         "Lehrerin/Lehrer"
       ],
       "correctAnswer": 1,
-      "sourcePage": 104
+      "sourcePage": 104,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-283",
@@ -3704,7 +5678,14 @@ const QUESTION_BANK = {
         "Ich gehe mit der Rechnung zum Finanzamt."
       ],
       "correctAnswer": 1,
-      "sourcePage": 104
+      "sourcePage": 104,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-284",
@@ -3717,7 +5698,14 @@ const QUESTION_BANK = {
         "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
       ],
       "correctAnswer": 1,
-      "sourcePage": 105
+      "sourcePage": 105,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-285",
@@ -3730,7 +5718,14 @@ const QUESTION_BANK = {
         "Umsatzsteuer"
       ],
       "correctAnswer": 3,
-      "sourcePage": 105
+      "sourcePage": 105,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-286",
@@ -3743,7 +5738,14 @@ const QUESTION_BANK = {
         "das Betriebsmanagement"
       ],
       "correctAnswer": 0,
-      "sourcePage": 105
+      "sourcePage": 105,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-287",
@@ -3756,7 +5758,14 @@ const QUESTION_BANK = {
         "die Versicherungspflicht"
       ],
       "correctAnswer": 2,
-      "sourcePage": 106
+      "sourcePage": 106,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-288",
@@ -3769,7 +5778,14 @@ const QUESTION_BANK = {
         "aus der christlichen Tradition"
       ],
       "correctAnswer": 1,
-      "sourcePage": 106
+      "sourcePage": 106,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-289",
@@ -3782,7 +5798,14 @@ const QUESTION_BANK = {
         "er keine Erfahrungen im Beruf hat."
       ],
       "correctAnswer": 1,
-      "sourcePage": 107
+      "sourcePage": 107,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-290",
@@ -3795,7 +5818,14 @@ const QUESTION_BANK = {
         "die Garantie verlängern"
       ],
       "correctAnswer": 1,
-      "sourcePage": 108
+      "sourcePage": 108,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-291",
@@ -3808,7 +5838,14 @@ const QUESTION_BANK = {
         "die Kirche für die Steuererklärung verantwortlich ist."
       ],
       "correctAnswer": 0,
-      "sourcePage": 108
+      "sourcePage": 108,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-292",
@@ -3821,7 +5858,14 @@ const QUESTION_BANK = {
         "Der Staat entscheidet, an welchen Gott die Menschen glauben."
       ],
       "correctAnswer": 2,
-      "sourcePage": 108
+      "sourcePage": 108,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-293",
@@ -3834,7 +5878,14 @@ const QUESTION_BANK = {
         "Raketen in die Luft schießen"
       ],
       "correctAnswer": 2,
-      "sourcePage": 109
+      "sourcePage": 109,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-294",
@@ -3847,7 +5898,14 @@ const QUESTION_BANK = {
         "bayerischer Brauch."
       ],
       "correctAnswer": 0,
-      "sourcePage": 109
+      "sourcePage": 109,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-295",
@@ -3860,7 +5918,14 @@ const QUESTION_BANK = {
         "der Islam"
       ],
       "correctAnswer": 1,
-      "sourcePage": 109
+      "sourcePage": 109,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-296",
@@ -3873,7 +5938,14 @@ const QUESTION_BANK = {
         "Allerheiligen."
       ],
       "correctAnswer": 2,
-      "sourcePage": 110
+      "sourcePage": 110,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-297",
@@ -3886,7 +5958,14 @@ const QUESTION_BANK = {
         "Türkei"
       ],
       "correctAnswer": 3,
-      "sourcePage": 110
+      "sourcePage": 110,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-298",
@@ -3899,7 +5978,14 @@ const QUESTION_BANK = {
         "Nordkorea, Mexiko, Ägypten."
       ],
       "correctAnswer": 0,
-      "sourcePage": 110
+      "sourcePage": 110,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-299",
@@ -3912,7 +5998,14 @@ const QUESTION_BANK = {
         "Schichtarbeiterinnen/Schichtarbeiter."
       ],
       "correctAnswer": 1,
-      "sourcePage": 111
+      "sourcePage": 111,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "general-300",
@@ -3925,7 +6018,14 @@ const QUESTION_BANK = {
         "Türkei"
       ],
       "correctAnswer": 0,
-      "sourcePage": 111
+      "sourcePage": 111,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     }
   ],
   "berlin": [
@@ -3946,6 +6046,13 @@ const QUESTION_BANK = {
         "assets/questions/optimized/p122_img2_2087.webp",
         "assets/questions/optimized/p122_img3_2103.webp",
         "assets/questions/optimized/p122_img4_2105.webp"
+      ],
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
       ]
     },
     {
@@ -3959,7 +6066,14 @@ const QUESTION_BANK = {
         "Mecklenburgische Seenplatte"
       ],
       "correctAnswer": 2,
-      "sourcePage": 122
+      "sourcePage": 122,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "berlin-3",
@@ -3972,7 +6086,14 @@ const QUESTION_BANK = {
         "6"
       ],
       "correctAnswer": 2,
-      "sourcePage": 123
+      "sourcePage": 123,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "berlin-4",
@@ -3985,7 +6106,14 @@ const QUESTION_BANK = {
         "20"
       ],
       "correctAnswer": 1,
-      "sourcePage": 123
+      "sourcePage": 123,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "berlin-5",
@@ -3998,7 +6126,14 @@ const QUESTION_BANK = {
         "schwarz-gold"
       ],
       "correctAnswer": 1,
-      "sourcePage": 123
+      "sourcePage": 123,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "berlin-6",
@@ -4011,7 +6146,14 @@ const QUESTION_BANK = {
         "bei der Landeszentrale für politische Bildung"
       ],
       "correctAnswer": 3,
-      "sourcePage": 124
+      "sourcePage": 124,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "berlin-7",
@@ -4024,7 +6166,14 @@ const QUESTION_BANK = {
         "Hessen"
       ],
       "correctAnswer": 0,
-      "sourcePage": 124
+      "sourcePage": 124,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "berlin-8",
@@ -4038,7 +6187,14 @@ const QUESTION_BANK = {
       ],
       "correctAnswer": 3,
       "sourcePage": 125,
-      "image": "assets/questions/optimized/p125_img1_2109.webp"
+      "image": "assets/questions/optimized/p125_img1_2109.webp",
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "berlin-9",
@@ -4051,7 +6207,14 @@ const QUESTION_BANK = {
         "Regierende Bürgermeisterin/Regierender Bürgermeister"
       ],
       "correctAnswer": 3,
-      "sourcePage": 126
+      "sourcePage": 126,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": "berlin-10",
@@ -4064,7 +6227,14 @@ const QUESTION_BANK = {
         "Justizsenatorin/Justizsenator"
       ],
       "correctAnswer": 2,
-      "sourcePage": 126
+      "sourcePage": 126,
+      "questionRu": "",
+      "answersRu": [
+        "",
+        "",
+        "",
+        ""
+      ]
     }
   ]
 };

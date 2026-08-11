@@ -49,6 +49,49 @@ window.UI = (() => {
 
   function renderQuestion({ question, index, total, selectedIndex, remainingSeconds, onSelect, onNext }) {
     const progress = ((index + 1) / total) * 100;
+    const cachedTranslation = window.TranslationService?.get(question.id) || null;
+    const hasTranslation = Boolean(cachedTranslation?.questionRu && (question.answerImages || cachedTranslation.answersRu?.length === 4));
+    const imageMarkup = question.image ? `<div class="question-image"><img src="${escapeHtml(question.image)}" alt=""></div>` : "";
+
+    const renderAnswers = (answers, isRu) => {
+      if (question.answerImages && question.answerImages.length === 4) {
+        return `<div class="answers answers-images">
+          ${question.answerImages.map((src, i) => `
+            <button class="answer-card answer-image-card ${selectedIndex === i ? "is-selected" : ""}" data-answer="${i}" type="button">
+              <img src="${escapeHtml(src)}" alt="">
+            </button>`).join("")}
+        </div>`;
+      }
+      return `<div class="answers">
+        ${answers.map((answer, i) => `
+          <button class="answer-card ${selectedIndex === i ? "is-selected" : ""}" data-answer="${i}" type="button">
+            ${escapeHtml(answer)}
+          </button>`).join("")}
+      </div>`;
+    };
+
+    const deQuestion = question.question;
+    const deAnswers = question.answers.map(a => a.text);
+    const ruQuestion = cachedTranslation?.questionRu || "Übersetzung wird geladen …";
+    const ruAnswers = cachedTranslation?.answersRu?.length === 4 ? cachedTranslation.answersRu : deAnswers;
+
+    const renderSide = (lang) => {
+      const ru = lang === "ru";
+      const sideClass = ru ? "card-face card-face-back" : "card-face card-face-front";
+      const toggle = ru ? "DE" : "RU";
+      const disabled = ru && !hasTranslation && !cachedTranslation;
+      const questionText = ru ? ruQuestion : deQuestion;
+      const answers = ru ? ruAnswers : deAnswers;
+      return `
+        <div class="${sideClass}">
+          <button class="language-toggle ${disabled ? "is-disabled" : ""}" data-flip="${toggle.toLowerCase()}" type="button" ${disabled ? "disabled" : ""} aria-label="${ru ? "Deutsch anzeigen" : "Russischen Übersetzung anzeigen"}">${toggle}</button>
+          <div class="question-number">FRAGE ${index + 1}</div>
+          <h1>${escapeHtml(questionText)}</h1>
+          ${imageMarkup}
+          ${renderAnswers(answers, ru)}
+        </div>`;
+    };
+
     app.innerHTML = `
       <section class="screen screen-test">
         <header class="test-header">
@@ -59,60 +102,60 @@ window.UI = (() => {
               <span class="timer" id="timer">${formatTime(remainingSeconds)}</span>
             </div>
           </div>
-          <div class="test-meta">
-            <span>Frage ${index + 1} von ${total}</span>
-            <span>${Math.round(progress)}%</span>
-          </div>
+          <div class="test-meta"><span>Frage ${index + 1} von ${total}</span><span>${Math.round(progress)}%</span></div>
           <div class="progress-track"><div class="progress-value" style="width:${progress}%"></div></div>
         </header>
-
         <div class="question-layout">
-          <div class="question-card">
-            <div class="question-number">FRAGE ${index + 1}</div>
-            <h1>${escapeHtml(question.question)}</h1>
-            ${question.image ? `<div class="question-image"><img src="${escapeHtml(question.image)}" alt=""></div>` : ""}
-            ${question.answerImages ? `<div class="answers answers-images" id="answers">
-              ${question.answers.map((answer, i) => `
-                <button class="answer-card answer-image-card ${selectedIndex === i ? "is-selected" : ""}" data-answer="${i}" type="button">
-                  <img src="${escapeHtml(question.answerImages[i])}" alt="${escapeHtml(answer.text)}">
-                </button>`).join("")}
-            </div>` : `
-            <div class="answers" id="answers">
-              ${question.answers.map((answer, i) => `
-                <button class="answer-card ${selectedIndex === i ? "is-selected" : ""}" data-answer="${i}" type="button">
-                  ${escapeHtml(answer.text)}
-                </button>`).join("")}
-            </div>`}
-            <div class="question-footer">
-              <span class="selection-hint">${selectedIndex === null ? "Wähle eine Antwort." : "Antwort ausgewählt."}</span>
-              <button class="primary-button next-button" id="next-button" ${selectedIndex === null ? "disabled" : ""}>
-                ${index === total - 1 ? "Test beenden" : "Weiter"} <span aria-hidden="true">→</span>
-              </button>
+          <div class="question-flip-card ${cachedTranslation ? "has-translation" : ""}" id="question-flip-card">
+            <div class="question-flip-inner">
+              ${renderSide("de")}
+              ${renderSide("ru")}
             </div>
+          </div>
+          <div class="question-footer">
+            <span class="selection-hint" id="selection-hint">${selectedIndex === null ? "Wähle eine Antwort." : "Antwort ausgewählt."}</span>
+            <button class="primary-button next-button" id="next-button" ${selectedIndex === null ? "disabled" : ""}>${index === total - 1 ? "Test beenden" : "Weiter"} <span aria-hidden="true">→</span></button>
           </div>
         </div>
       </section>`;
+
+    const card = document.getElementById("question-flip-card");
+    const flipToRu = async () => {
+      if (!window.TranslationService) return;
+      const ruButton = card.querySelector('[data-flip="ru"]');
+      ruButton.disabled = true;
+      ruButton.classList.add("is-loading");
+      try {
+        const value = await window.TranslationService.translate(question);
+        question.questionRu = value.questionRu;
+        question.answersRu = value.answersRu;
+        renderQuestion({ question, index, total, selectedIndex, remainingSeconds, onSelect, onNext });
+        document.getElementById("question-flip-card")?.classList.add("is-flipped");
+      } catch (error) {
+        ruButton.disabled = false;
+        ruButton.classList.remove("is-loading");
+        ruButton.textContent = "RU";
+        const hint = document.getElementById("selection-hint");
+        if (hint) hint.textContent = "Übersetzung konnte nicht geladen werden.";
+        console.warn("Russian translation failed", error);
+      }
+    };
+
+    card.querySelectorAll("[data-flip]").forEach(button => {
+      button.addEventListener("click", async () => {
+        if (button.disabled) return;
+        if (button.dataset.flip === "ru") {
+          await flipToRu();
+        } else {
+          card.classList.remove("is-flipped");
+        }
+      });
+    });
 
     document.querySelectorAll(".answer-card").forEach(button => {
       button.addEventListener("click", () => onSelect(Number(button.dataset.answer)));
     });
     document.getElementById("next-button").addEventListener("click", onNext);
-
-    // Keep every question inside one viewport. Long text/image combinations
-    // receive progressively more compact spacing instead of creating page scroll.
-    requestAnimationFrame(fitQuestionToViewport);
-  }
-
-  function fitQuestionToViewport() {
-    const card = document.querySelector(".question-card");
-    if (!card) return;
-
-    card.classList.remove("compact-1", "compact-2", "compact-3");
-
-    for (let level = 1; level <= 3; level++) {
-      if (card.scrollHeight <= card.clientHeight + 1) break;
-      card.classList.add(`compact-${level}`);
-    }
   }
 
   function updateTimer(seconds) {
